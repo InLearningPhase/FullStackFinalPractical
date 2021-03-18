@@ -1,0 +1,31 @@
+body{
+
+    background-image: url("bg.jpg");
+
+}
+
+.home{
+
+    margin: auto;
+    margin-top: 5%;
+    width: 50%;
+    padding: 10px;
+
+}
+
+.column {
+    margin: 0;
+  position: absolute;
+  top: 50%;
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
+}
+
+img {
+     width: 100%;
+     height: 100%;
+ }
+
+ .far .fa-search{
+     font-size: 8px;
+ }
